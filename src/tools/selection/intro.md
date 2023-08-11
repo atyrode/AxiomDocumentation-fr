@@ -1,12 +1,12 @@
-# Selection Tools
+# Outils de Sélection
 
-This section covers selection tools and their options. An option that is generic to all selection tools a concept known as **boolean operations**. The default option is ‘add’
+Cette section couvre les outils de sélection et leurs options. Une option qui est générique à tous les outils de sélection est un concept connu sous le nom d'**opérations booléennes**. L'option par défaut est "ajouter".
 
-| Boolean Operation | Description |
+| Opération Booléenne | Description |
 | --- | --- |
-| Add | Adds the selected area to the current selection |
-| Subtract | Subtracts the selected area from the current selection |
-| Replace | Replaces the current selection with the selected area |
-| Intersect | Selects only the area that overlaps with the current selection |
+| Ajouter | Ajoute la zone sélectionnée à la sélection actuelle |
+| Soustraire | Soustrait la zone sélectionnée de la sélection actuelle |
+| Remplacer | Remplace la sélection actuelle par la zone sélectionnée |
+| Intersection | Sélectionne uniquement la zone qui chevauche la sélection actuelle |
 
-> Note: At very large scales non-cuboid selections become less performant due to the complexity in keeping track of the entire region. If you need to perform an operation on a very large area it is recommended to use a cuboid selection and encompass the entire build.
+> Note : À très grande échelle, les sélections non parallélépipédiques deviennent moins performantes en raison de la complexité de la prise en compte de toute la région. Si vous devez effectuer une opération sur une très grande zone, il est recommandé d'utiliser une sélection en forme de parallélépipède et d'englober toute la construction.

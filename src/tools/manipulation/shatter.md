@@ -1,7 +1,7 @@
-# Shatter
+# Fracturer
 
-The **Shatter** Tool is a tool that uses a Voronoi edges noise to shatter or add cracks to the terrain. The brush size and shape can be configured to change the affected area. 
+L'outil **Fracturer** est un outil qui utilise un bruit de bordures Voronoi pour fracturer ou ajouter des fissures au terrain. La taille et la forme de la brosse peuvent être configurées pour changer la zone affectée.
 
-The shatter noise can be configured to have a larger scale, conversely making the cracks appear over a wider area. The width affects how big the cracks between the Voronoi edges are. A larger width means that the cracks will be wider. Toggling the active block changes the brush to use the active block rather than making the cracks with which can be used to make cracks with materials rather than removing mass from the world.
+Le bruit de fracture peut être configuré pour avoir une échelle plus grande, rendant ainsi les fissures visibles sur une zone plus large. La largeur affecte la taille des fissures entre les bordures Voronoi. Une plus grande largeur signifie que les fissures seront plus larges. En activant le bloc actif, cela change la brosse pour utiliser le bloc actif plutôt que de créer les fissures, ce qui peut être utilisé pour faire des fissures avec des matériaux plutôt que de retirer de la masse au monde.
 
-The noise can be configured to work in 3D, meaning the cracks will move in all 3 dimensions or several 1D configurations for each of the Cartesian coordinates. This will make the cracks only appear on that axis. It can also be configured with the seed to use different or random seeds.
+Le bruit peut être configuré pour fonctionner en 3D, ce qui signifie que les fissures se déplaceront dans les 3 dimensions, ou plusieurs configurations 1D pour chacune des coordonnées cartésiennes. Cela fera apparaître les fissures uniquement sur cet axe. Il peut également être configuré avec la graine pour utiliser différentes graines ou des graines aléatoires.

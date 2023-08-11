@@ -1,3 +1,3 @@
-# Painting Tools
+# Outils de Peinture
 
-Painting tools enable you to 'paint' over blocks, i.e., replace existing blocks in the world based on the chosen tool, rather than adding new ones. Axiom offers a range of painting tools, each with unique configurations for fine-tuned block editing.
+Les outils de peinture vous permettent de "peindre" sur les blocs, c'est-à-dire de remplacer les blocs existants dans le monde en fonction de l'outil choisi, plutôt que d'en ajouter de nouveaux. Axiom propose une gamme d'outils de peinture, chacun avec des configurations uniques pour une édition de blocs précise.

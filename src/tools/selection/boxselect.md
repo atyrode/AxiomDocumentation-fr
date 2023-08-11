@@ -1,7 +1,7 @@
-# Box Select
+# Sélection de zone
 
-The **Box Select** tool allows you to create cuboid selections. To start, click and drag between two points. The selection can be further refined by repositioning the 3 [Gizmos](/editor/gizmos.md).
+L'outil **Sélection de zone** vous permet de créer des sélections en forme de parallélépipède. Pour commencer, cliquez et faites glisser entre deux points. La sélection peut être davantage affinée en repositionnant les 3 [Gizmos](/editor/gizmos.md).
 
-If you want to select between two known coordinates instead, these coordinates can be entered into the tool's options.
+Si vous souhaitez sélectionner entre deux coordonnées connues à la place, ces coordonnées peuvent être entrées dans les options de l'outil.
 
-> Warning: Some users try to use the tool by clicking twice. This does not work, you must drag to create the initial box
+> Avertissement : Certains utilisateurs tentent d'utiliser l'outil en cliquant deux fois. Cela ne fonctionne pas, vous devez glisser pour créer la boîte initiale.

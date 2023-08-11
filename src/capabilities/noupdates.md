@@ -1,4 +1,4 @@
-# No Updates
-The **No Updates** capability ‘freezes’ blocks and adjacent blocks in their current state and prevents shape and neighbour updates when breaking or placing blocks nearby.
+# Pas de Mises à Jour
+La capacité **Pas de Mises à Jour** "gèle" les blocs et les blocs adjacents dans leur état actuel et empêche les mises à jour de forme et des blocs voisins lors de la destruction ou de la pose de blocs à proximité.
 
-This is useful when working with "non-vanilla" states of stairs/fences/walls/etc. which would normally revert to their vanilla state when breaking/placing blocks near them.
+C'est utile lorsque vous travaillez avec des états "non-vanilla" d'escaliers/barrières/murs/etc. qui normalement reviendraient à leur état vanilla lors de la destruction/pose de blocs près d'eux.

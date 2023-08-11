@@ -1,9 +1,9 @@
-# Distort
+# Distordre
 
-The **Distort** tool uses a concept called ‘Domain Distortion’ with a Simplex noise in order to distort a given area. What this does in practice is making areas more bumpy. This can help to make flat areas have more depth and texture or be used to add some bumps and carvings into more refined terrain. It does this inside the brush stroke path which can be defined by the brush settings.
+L'outil **Distordre** utilise un concept appelé « Distorsion de Domaine » avec un bruit Simplex pour déformer une zone donnée. En pratique, cela rend les zones plus accidentées. Cela peut aider à donner plus de profondeur et de texture aux zones plates ou à ajouter des bosses et des creux dans un terrain plus fini. Il fait cela à l'intérieur du chemin de coup de brosse qui peut être défini par les paramètres de la brosse.
 
-The distortion can be configured further to finetune how you want to distort the terrain. The scale sets the scale of the Simplex noise used to perform the domain distortion. This can be configured to larger sizes should the scale not be large enough. It can also be configured with the seed to use different or random seeds.
+La distorsion peut être configurée davantage pour affiner la manière dont vous souhaitez déformer le terrain. L'échelle détermine l'échelle du bruit Simplex utilisé pour effectuer la distorsion de domaine. Elle peut être configurée pour des tailles plus grandes si l'échelle n'est pas assez grande. Elle peut également être configurée avec la graine pour utiliser différentes graines ou des graines aléatoires.
 
-The distance of the distortion increases the range in which the noise distorts. A distance of 2 being an average of 2 blocks distance away from the target position. Due to to the fact that the noise is continuous the range can be set to non-full numbers in order to finetune the range, sometimes making larger dents or bumps appear as a result. A high distance will cause it to look more ‘severe’. These distances can be separated per axis by toggling the ***Separate Axis** button
+La distance de la distorsion augmente la portée dans laquelle le bruit déforme. Une distance de 2 étant en moyenne à 2 blocs de distance de la position cible. Étant donné que le bruit est continu, la portée peut être réglée sur des nombres non entiers pour affiner la portée, ce qui fait parfois apparaître de plus grands creux ou bosses en résultat. Une grande distance lui donnera un aspect plus « sévère ». Ces distances peuvent être séparées par axe en activant le bouton ***Axe distinct**.
 
-The smooth edges option blends the edges of the noise into the existing terrain to avoid jagged edges and sharp contrasts from appearing between the distorted areas.
+L'option des bords lisses fusionne les bords du bruit avec le terrain existant pour éviter l'apparition de bords irréguliers et de forts contrastes entre les zones déformées.

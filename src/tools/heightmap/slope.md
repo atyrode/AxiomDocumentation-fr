@@ -1,11 +1,11 @@
-# Slope
+# Pente
 
-The **Slope** tool is a heightmap tool designed to easily create a ramp or slope between two points, with its function differing slightly from other heightmap tools. In order to start a slope you have to click once to set the target position and then you can drag-click from anywhere else to start drawing a slope between those two points.
+L'outil **Pente** est un outil d'altitude conçu pour créer facilement une rampe ou une pente entre deux points, sa fonction différant légèrement des autres outils d'altitude. Pour commencer une pente, vous devez cliquer une fois pour définir la position cible, puis vous pouvez glisser-cliquer depuis n'importe quel autre endroit pour commencer à dessiner une pente entre ces deux points.
 
-On the initial click, a triangle appears displaying details such as height disparity, slope angle, and Euclidean distance between the two points. When you hold down the right-click and drag, a grid plane visible around the initial point of the slope shows the slope's exact angle and provides a rough image of what the final slope will look like.
+Au premier clic, un triangle apparaît affichant des détails tels que la différence de hauteur, l'angle de la pente, et la distance euclidienne entre les deux points. Lorsque vous maintenez le clic droit et faites glisser, un plan en grille visible autour du point initial de la pente montre l'angle exact de la pente et fournit une image approximative de ce à quoi ressemblera la pente finale.
 
-As for configuration, brush settings allow you to manipulate the height and radius. The sharpness function, similar to other heightmap tools, manages the curvature of the slope at points above and below the tool.
+En ce qui concerne la configuration, les paramètres de brosse vous permettent de manipuler la hauteur et le rayon. La fonction de netteté, semblable à d'autres outils de carte d'altitude, gère la courbure de la pente aux points situés au-dessus et en dessous de l'outil.
 
-Two modes are available: Plane and Cone. Plane mode operates on a flat surface, whereas Cone mode functions within a spherical region centred on the initial point. The cone's orientation changes depending on whether the target point is above or below your current aim.
+Deux modes sont disponibles : Plan et Cône. Le mode Plan fonctionne sur une surface plane, tandis que le mode Cône fonctionne dans une région sphérique centrée sur le point initial. L'orientation du cône change selon que le point cible est situé au-dessus ou en dessous de votre visée actuelle.
 
-However, be cautious when creating a large slope as it may induce lag. For very large slopes, it is suggested to handle smaller areas at a time.
+Cependant, soyez prudent lorsque vous créez une grande pente car cela peut provoquer des lags. Pour des pentes très grandes, il est suggéré de traiter des zones plus petites à la fois.

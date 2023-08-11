@@ -1,17 +1,17 @@
-# Clipboard and Placements
+# Presse-Papiers et Placements
 
-## Clipboard
+## Presse-Papiers
 
-A selection can be copied to the clipboard using Ctrl+C. 
+Une sélection peut être copiée dans le presse-papiers en utilisant Ctrl+C.
 
-With blocks in your clipboard, you can paste back into the world by hovering over the desired location and pressing Ctrl+V. Pasting like this will initiate a **Placement** (see below).
+Avec des blocs dans votre presse-papiers, vous pouvez les coller de retour dans le monde en survolant l'emplacement souhaité et en appuyant sur Ctrl+V. Coller de cette manière initiera un **Placement** (voir ci-dessous).
 
-The clipboard can be cleared by right-clicking the icon and choosing the 'clear' option. Left-clicking the clipboard opens up the [**Blueprint Browser**](blueprints.md).
+Le presse-papiers peut être vidé en cliquant avec le bouton droit de la souris sur l'icône et en choisissant l'option "vider". Un clic gauche sur le presse-papiers ouvre le [**Navigateur de Plans**](plans.md).
 
 ## Placement
 
-Placements can be repositioned and rotated using the [Gizmo](gizmos.md).
+Les placements peuvent être repositionnés et tournés en utilisant le [Gizmo](gizmos.md).
 
-Once the placement is in the correct position, you can use Enter or Ctrl+V to confirm it. To cancel a placement, use the Delete key.
+Une fois que le placement est dans la bonne position, vous pouvez utiliser Enter ou Ctrl+V pour le confirmer. Pour annuler un placement, utilisez la touche Suppr.
 
-> Tip: The placement can be rotated clockwise using the Ctrl+R keybind, and can be flipped in the direction of your mouse vector using the Ctrl+F keybind.
+> Astuce : Le placement peut être tourné dans le sens des aiguilles d'une montre en utilisant le raccourci Ctrl+R, et peut être retourné dans la direction de votre vecteur de souris en utilisant le raccourci Ctrl+F.

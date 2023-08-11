@@ -1,4 +1,4 @@
-# Enhanced Flight
-The **Enhanced Flight** capability changes your normal creative mode flight to a more precise flight without any leftover momentum. It also allows you to move in the direction the camera is facing.
+# Vol Amélioré
+La capacité **Vol Amélioré** modifie votre vol en mode créatif normal pour un vol plus précis sans aucun élan résiduel. Elle vous permet également de vous déplacer dans la direction vers laquelle la caméra est orientée.
 
-> Some users have mentioned that it took some time to get used to the enhanced flight, but once they did it improved their building experience dramatically. I'd recommend trying out the capability for at least a little bit to see if it suits your building workflow.
+> Certains utilisateurs ont mentionné qu'il leur a fallu un certain temps pour s'habituer au vol amélioré, mais une fois qu'ils l'ont fait, cela a considérablement amélioré leur expérience de construction. Je recommande d'essayer cette capacité pendant au moins un moment pour voir si elle convient à votre processus de construction.

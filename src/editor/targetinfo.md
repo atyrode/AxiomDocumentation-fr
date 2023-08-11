@@ -1,9 +1,9 @@
-# Target Info
+# Informations sur la cible
 
-The **Target Info** window shows information of the block targeted by your mouse in the Editor UI.
+La fenêtre **Informations sur la cible** affiche les informations du bloc visé par votre souris dans l'interface de l'éditeur.
 
-The window contains:
-- The block you’re hovering over.
-- The position of that block in the world.
-- The biome at that position.
-- The distance from your camera to that position.
+La fenêtre contient :
+- Le bloc sur lequel vous passez la souris.
+- La position de ce bloc dans le monde.
+- Le biome à cette position.
+- La distance entre votre caméra et cette position.

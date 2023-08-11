@@ -1,48 +1,52 @@
-# Clentaminator
+Voici la traduction en français :
 
-The **Clentaminator** is a set of predefined painting tools that typically have complex set of predefined placement rules which don’t fall under other cateogories. Due to this they often use advanced algorithms to produce interesting patterns but are more specific in which cases they can be used.
+---
 
-The clentaminator lets you configure the brush to define the stroke path, just like other tools. Other than that it has two other options which can be toggled and configured. **Terrain** and **Decorations**. They can be mixed and matched to provide a wide range of customization.
+# Nettoyeur
+
+Le **Nettoyeur** est un ensemble d'outils de peinture prédéfinis qui ont généralement un ensemble complexe de règles de placement prédéfinies qui ne relèvent pas d'autres catégories. À cause de cela, ils utilisent souvent des algorithmes avancés pour produire des motifs intéressants mais sont plus spécifiques dans les cas où ils peuvent être utilisés.
+
+Le Nettoyeur vous permet de configurer le pinceau pour définir le chemin du trait, comme les autres outils. Il dispose également de deux autres options qui peuvent être activées et configurées : **Terrain** et **Décorations**. Ils peuvent être combinés pour offrir une large gamme de personnalisation.
 
 ## Terrain
 
-These clentaminator presets affect solid blocks in your brush stroke
+Ces préréglages Nettoyeur affectent les blocs solides dans votre trait de pinceau.
 
-### Stone
-    
-The Stone Terrain preset is a very simple terrain tool, just setting the base to only stone.
-    
-### Grass
-    
-The Grass Terrain preset naturalizes the terrain by making the top layer grass blocks followed by 3-4 layers of dirt and any terrain below that being set to stone.
-    
-### Sand
-    
-The Sand Terrain preset makes a desert terrain by making the top 4-5 layers sand and blocks below that being set to sandstone.
-    
-### Dirt Ground
-    
-The Dirt Ground Terrain preset uses a wave function collapse algorithm to make a pattern of dirt with mixed in blotches of dry mud and coarse dirt to make a quick and easy floor for things such as forest floors, paths, etc.
-    
-### Gravel Ground
-    
-The Gravel Ground terrain preset uses a wave function collapse algorithm to make a pattern of stone mixed in with blotches of gravel and cobblestone to make a quick and easy rough rocky pattern, useful for mountain gravel slides, paths, etc.
-    
-### Fertile Ocean Floor
-    
-The Fertile Ocean Floor terrain preset uses a mix of layered voronoi as well as cellular noise patterns in order to create a varied look of an ocean, swamp or riverbed floor in ‘fertile’ water areas such as mangroves near oceans, swamps, river deltas/mouths, etc.
-    
-## Decorations
+### Pierre
 
-These clentaminator presets affect non-solid blocks, often intended to be placed on top of existing terrain to help enhance the aesthetics.
+Le préréglage Terrain Pierre est un outil de terrain très simple, ne fixant que la base en pierre.
 
-### Clear
-    
-The Clear decoration preset isn’t a ‘nothing’ brush, instead it can be used to clear other decorations found in the natural generation or placed by other clentaminator presets. Useful to create something like a clearing in a forest for example.
-    
-### Grass
-    
-The Grass decoration preset uses a perlin noise to randomly disperse dense plots of grass in a pleasing pattern in order to quickly decorate a plains biome, edges next to paths, etc. When selecting the grass decoration preset two new sub-settings appear:
-    
-- A grassiness slider ranging from 0-1 (uncapped but going above 1 has no effect) to denote how ‘grassy’ an area should be. The closer to 1 the more grass there is.
-- An ‘Allow Tall Grass’ toggle which lets the perlin noise’s most dense areas use tall grass. This creates the appearance that grass gets more dense the further in you go which can be useful for more wild areas.
+### Herbe
+
+Le préréglage Terrain Herbe naturalise le terrain en faisant de la couche supérieure des blocs d'herbe suivis de 3-4 couches de terre et tout terrain en dessous de cela étant mis en pierre.
+
+### Sable
+
+Le préréglage Terrain Sable crée un terrain désertique en faisant les 4-5 couches supérieures en sable et les blocs en dessous en grès.
+
+### Sol de Terre
+
+Le préréglage Terrain Sol en Terre utilise un algorithme de collapse de fonction d'onde pour créer un motif de terre mélangé à des taches de boue sèche et de terre grossière pour réaliser rapidement un sol pour les sols de forêts, les chemins, etc.
+
+### Sol de Gravier
+
+Le préréglage Terrain Sol en Gravier utilise un algorithme de collapse de fonction d'onde pour créer un motif de pierre mélangé avec des taches de gravier et de pierre taillée pour obtenir rapidement un motif rocheux rugueux, utile pour les éboulis de montagne, les chemins, etc.
+
+### Fond d'Océan Fertile
+
+Le préréglage Terrain Fond d'Océan Fertile utilise un mélange de voronoi en couches ainsi que des motifs de bruit cellulaire pour créer un aspect varié d'un fond d'océan, de marais ou de lit de rivière dans des zones d'eau "fertiles" telles que les mangroves près des océans, les marais, les embouchures/deltas de rivières, etc.
+
+## Décorations
+
+Ces préréglages Nettoyeur affectent les blocs non solides, souvent destinés à être placés sur un terrain existant pour améliorer l'esthétique.
+
+### Supprimer
+
+Le préréglage Décoration Supprimer n'est pas un pinceau "vide", il peut être utilisé pour effacer d'autres décorations trouvées dans la génération naturelle ou placées par d'autres préréglages Nettoyeur. Utile pour créer par exemple une clairière dans une forêt.
+
+### Herbe
+
+Le préréglage Décoration Herbe utilise un bruit de Perlin pour disperser aléatoirement des parcelles denses d'herbe selon un motif plaisant afin de décorer rapidement un biome de plaines, les bords à côté des chemins, etc. Lors de la sélection du préréglage décoration herbe, deux nouveaux sous-paramètres apparaissent :
+
+- Un curseur d'herbivorie allant de 0 à 1 (non limité mais aller au-dessus de 1 n'a aucun effet) pour indiquer à quel point une zone doit être "herbeuse". Plus il est proche de 1, plus il y a d'herbe.
+- Une bascule "Permettre l'herbe haute" qui permet aux zones les plus denses du bruit de Perlin d'utiliser de l'herbe haute. Cela donne l'impression que l'herbe devient plus dense à mesure que l'on avance, ce qui peut être utile pour des zones plus sauvages.

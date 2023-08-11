@@ -1,15 +1,15 @@
-# Ruler Tool
+# Outil Règle
 
-The **Ruler** Tool is designed to measure the distance between two or more points in a world. You can add points to the world by right-clicking. Once you have selected two or more points, a line appears between the most recent point and the one before it. The rounded Euclidean distance, or straight line distance, is shown in the centre of this line. You can keep adding more points as needed.
+L'outil **Règle** est conçu pour mesurer la distance entre deux points ou plus dans un monde. Vous pouvez ajouter des points au monde en cliquant avec le bouton droit de la souris. Une fois que vous avez sélectionné deux points ou plus, une ligne apparaît entre le point le plus récent et celui qui le précède. La distance euclidienne arrondie, ou distance en ligne droite, est affichée au centre de cette ligne. Vous pouvez continuer à ajouter autant de points que nécessaire.
 
-When you check the tool options, you'll find more information about these points. What's shown depends on whether you've chosen two or more points.
+Lorsque vous vérifiez les options de l'outil, vous trouverez plus d'informations sur ces points. Ce qui est affiché dépend du nombre de points que vous avez choisis.
 
-Here's the information you'll see:
+Voici les informations que vous verrez :
 
-- Total Length (Euclidean): This is the straight-line distance from the first point to the last one, as if a bird flew directly there, not caring about the blocks in between.
-- Total Length (Manhattan): This is the sum of the horizontal, vertical, and depth distances. In Minecraft terms, it's like how a player would travel: one block up, down, left, right, forward, or backward at a time.
-- Minimum: The coordinates of the earliest point in the sequence of points.
-- Maximum: The coordinates of the latest point in the sequence of points.
-- Bounding Size: The size of the box needed to draw around all the points.
-- Yaw (Only visible with two points): The yaw of the line between two points.
-- Pitch (Only visible with two points): The pitch of the line between two points.
+- Longueur totale (Euclidienne) : Il s'agit de la distance en ligne droite du premier point au dernier, comme si un oiseau y volait directement, sans se soucier des blocs intermédiaires.
+- Longueur totale (Manhattan) : Il s'agit de la somme des distances horizontales, verticales et en profondeur. En termes de Minecraft, c'est comme la façon dont un joueur se déplacerait : un bloc en haut, en bas, à gauche, à droite, en avant ou en arrière à la fois.
+- Minimum : Les coordonnées du point le plus tôt dans la séquence de points.
+- Maximum : Les coordonnées du point le plus tard dans la séquence de points.
+- Taille de la délimitation : La taille de la boîte nécessaire pour dessiner autour de tous les points.
+- Lacet (visible uniquement avec deux points) : Le lacet de la ligne entre deux points.
+- Tangage (visible uniquement avec deux points) : Le tangage de la ligne entre deux points.

@@ -1,7 +1,7 @@
-# Elevation
+# Élévation
 
-The simplest heightmap tool is the **Elevation** tool. It is used to simply raise or lower an area within your selection one layer at a time. For the time being the brush options only let you configure a cylindrical shape from which the Radius and the Height of the brush can be configured. These are pretty self explanatory where the height setting affects the y range in which the blocks are affected and the radius is the size of the heightmap.
+L'outil le plus simple pour les cartes de hauteur est l'outil **Élévation**. Il est utilisé pour simplement élever ou abaisser une zone dans votre sélection, une couche à la fois. Pour le moment, les options de la brosse vous permettent seulement de configurer une forme cylindrique à partir de laquelle le Rayon et la Hauteur de la brosse peuvent être configurés. Ces réglages sont assez explicites : le réglage de la hauteur affecte la plage y dans laquelle les blocs sont concernés et le rayon est la taille de la carte de hauteur.
 
-The Sharpness setting lets you change the behaviour of the aforementioned curvature and falloff. Increasing the sharpness makes the edges sharper/more flat.
+Le paramètre de Netteté vous permet de modifier le comportement de la courbure et de la diminution mentionnées précédemment. Augmenter la netteté rend les bords plus nets/moins arrondis.
 
-Then there are the raise and lower modes. This affects whether the brush will add or remove blocks from the world.
+Ensuite, il y a les modes élever et abaisser. Cela détermine si la brosse ajoutera ou supprimera des blocs du monde.

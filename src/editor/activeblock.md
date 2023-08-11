@@ -1,10 +1,10 @@
-# Active Block
+# Bloc Actif
 
-Some tools use the block specified in the **Active Block** window. This includes most of the painting and drawing tools.
+Certains outils utilisent le bloc spécifié dans la fenêtre **Bloc Actif**. Cela inclut la plupart des outils de peinture et de dessin.
 
-Blocks in the Editor UI can be drag-dropped on different locations to various effects:
- - Into other UI elements (eg. tool mask) to quickly copy the block over
- - Into the main viewport to fill the targeted selection (similar to Ctrl+F)
- - Into the main viewport to flood replace the targeted block with the dropped block
+Les blocs dans l'interface de l'éditeur peuvent être glissés-déposés à différents endroits pour divers effets :
+ - Dans d'autres éléments de l'interface (par exemple, le masque d'outil) pour copier rapidement le bloc
+ - Dans la vue principale pour remplir la sélection ciblée (similaire à Ctrl+F)
+ - Dans la vue principale pour remplacer en masse le bloc ciblé par le bloc déposé
 
-The **Active Block** can be quickly set using 'pick block', which is bound to middle-click by default.
+Le **Bloc Actif** peut être rapidement défini en utilisant "sélectionner le bloc", qui est lié au clic molette par défaut.

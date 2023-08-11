@@ -1,5 +1,5 @@
-# Painter
+# Pinceau
 
-The **Painter** is the most basic painting tool. It allows you to paint blocks with a single type using a brush stroke.
+Le **Pinceau** est l'outil de peinture le plus basique. Il vous permet de peindre des blocs d'un seul type à l'aide d'un coup de pinceau.
 
-The **Mask Surface** option allows only painting blocks which are adjacent to a non-solid block.
+L'option **Masquer de surface** permet de ne peindre que les blocs qui sont adjacents à un bloc non solide.

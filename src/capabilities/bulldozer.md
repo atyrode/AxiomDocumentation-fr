@@ -1,6 +1,6 @@
 # Bulldozer
-The **Bulldozer** capability allows to break blocks very quickly after an initial warmup period. In many cases, bulldozer can be faster and more convenient than the alternatives: configuring a left-click macro, breaking blocks slowly by holding left-click or making a selection and running //set air.
+La capacité **Bulldozer** permet de casser des blocs très rapidement après une 'période d'échauffement' initiale. Dans de nombreux cas, le bulldozer peut être plus rapide et plus pratique que les alternatives : configurer un macro de clic gauche, casser des blocs lentement en maintenant le clic gauche ou faire une sélection et exécuter //set air.
 
-To use Bulldozer, simply start holding down the left mouse button. Your breaking speed will increase after a short warmup period, which is designed to prevent accidental mass destruction when you only intend to break a small number of blocks.
+Pour utiliser le Bulldozer, commencez simplement à maintenir le bouton gauche de la souris enfoncé. Votre vitesse de destruction augmentera après une courte période d'échauffement, qui est conçue pour éviter une destruction massive accidentelle lorsque vous avez seulement l'intention de casser un petit nombre de blocs.
 
-In addition to being more convenient than a left-click macro, the bulldozer capability also has a faster update rate to prevent misses.
+En plus d'être plus pratique qu'un macro de clic gauche, la capacité du bulldozer a également un taux de mise à jour plus rapide pour éviter les erreurs.

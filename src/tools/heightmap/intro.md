@@ -1,3 +1,3 @@
-# Heightmap Tools
+# Outils d'Altitude
 
-Heightmap tools are used to affect areas in a ‘2D’ way. This works by adding or removing height one layer at a time in the same way that heightmap-based tools like World Machine or World Painter do.
+Les outils d'altitude sont utilisés pour affecter des zones de manière « 2D ». Cela fonctionne en ajoutant ou en supprimant de la hauteur une couche à la fois, de la même manière que les outils basés sur des cartes d'altitude comme le font World Machine ou World Painter.
