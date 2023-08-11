@@ -1,26 +1,25 @@
-# Builder Mode
-The Builder Mode is an enhancement of the vanilla Creative mode. It adds several new features that take a lot of the pain away from traditional building and make everything just a bit easier.
+# Mode Constructeur
+Le Mode Constructeur est une amélioration du mode Créatif de base. Il ajoute plusieurs nouvelles fonctionnalités qui éliminent une grande partie des contraintes de la construction traditionnelle et rendent tout un peu plus simple.
 
-## Builder Context Menu
-The features for builder mode are accessed in the builder context menu. By default, holding down Left Alt opens the menu. The context menu allows you to access the features listed below.
+## Menu Contextuel du Constructeur
+Les fonctionnalités du mode constructeur sont accessibles dans le menu contextuel du constructeur. Par défaut, maintenir la touche Alt gauche appuyée ouvre le menu. Le menu contextuel vous permet d'accéder aux fonctionnalités listées ci-dessous.
 
+### Échangeur de Barre d'Accès Rapide
+L'échangeur de barre d'accès rapide est la fonctionnalité la plus marquante que vous remarquerez lorsque vous ouvrirez pour la première fois le menu contextuel du constructeur. Lorsque ce menu est ouvert, vous pouvez utiliser votre molette de défilement ou les touches numériques pour rapidement basculer vers une autre barre d'accès rapide.
 
-### Hotbar Swapper
-The hotbar swapper is the most prominent feature you’ll notice when you first open the builder context menu. While the menu is open you can use your scroll wheel or number keys to quickly swap to another hotbar.
+Cette fonctionnalité aide à l'organisation, vous permettant de passer entre les matériaux de construction sans avoir à ouvrir votre inventaire et à déplacer des choses.
 
-This feature aids in organization, allowing you to swap between building materials without needing to open your inventory and move things around.
+Vous pouvez réorganiser vos barres d'accès rapide en cliquant sur des objets comme vous le feriez dans n'importe quel autre inventaire. La manière la plus rapide de remplir une barre d'accès rapide est d'ouvrir une barre vide et de la remplir en utilisant l'inventaire créatif ou la sélection de blocs comme vous le feriez normalement.
 
-You can reorganize your hotbars by clicking items like you would in any other inventory. The fastest way to fill a hotbar is to open an empty bar and fill it using the creative inventory or pick block as you normally would.
+### Capacités
+Sur le côté gauche, vous pouvez trouver un certain nombre de boutons pour basculer les **Capacités** de construction. Un fond surélevé ou plus clair signifie que la Capacité est désactivée, tandis qu'un fond enfoncé ou plus sombre signifie que la Capacité est activée.
 
-### Capabilities
-On the left-hand side you can find a number of buttons for toggling building **Capabilities**. A raised or lighter background means the Capability is disabled, while a depressed or darker background means the Capability is enabled.
+La documentation sur les Capacités peut être trouvée [ici](/capabilities/intro.md)
 
-Documentation for Capabilities can be found [here](/capabilities/intro.md)
+### Changeurs de Mode de Jeu
+Au-dessus des échangeurs de barre d'accès rapide se trouvent 3 boutons pour basculer rapidement vers d'autres modes de jeu. Utiliser ces boutons peut être légèrement plus rapide que de jongler avec F3+F4 ou les commandes de chat.
 
-### Gamemode Switchers
-Above the hotbar swappers are 3 buttons for quickly swapping to other gamemodes. Using these buttons can be slightly faster than messing around with F3+F4 or chat commands.
+> Astuce : Appuyer sur Alt gauche lorsqu'on n'est pas en mode créatif vous mettra en mode créatif. Ceci peut être utile si vous êtes en mode spectateur et que vous souhaitez revenir pour placer des blocs.
 
-> Tip: Pressing Left Alt while not in creative mode will put you into creative mode, this can be useful if you are in spectator mode and want to swap back to place some blocks. 
-
-### Flight Speed
-On the right-hand side you can find a slider which allows you to quickly change your flight speed, up to 1000% or 10x faster.
+### Vitesse de Vol
+Sur le côté droit, vous pouvez trouver un curseur qui vous permet de changer rapidement votre vitesse de vol, jusqu'à 1000% soit 10 fois plus rapide.

@@ -1,5 +1,5 @@
-# History
+# Historique
 
-The History window shows you an overview of how many and what operations you just performed. It serves as a visual aid to assist in performing undo (Ctrl+Z) and redo (Ctrl+Y) operations.
+La fenêtre Historique vous donne un aperçu du nombre et du type d'opérations que vous venez d'effectuer. Elle sert d'aide visuelle pour effectuer des opérations d'annulation (Ctrl+Z) et de rétablissement (Ctrl+Y).
 
-> Tip: You can left-click history elements to *rewind* to that point, or right-click to point your camera towards the center of the edit.
+> Astuce : Vous pouvez cliquer gauche sur les éléments de l'historique pour *rembobiner* jusqu'à ce point, ou cliquer droit pour orienter votre caméra vers le centre de la modification.

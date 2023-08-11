@@ -1,9 +1,8 @@
 # Gizmos
 
-Gizmos are a common UI element which allows positioning within the 3D world.
+Les gizmos sont un élément d'interface utilisateur courant qui permet le positionnement dans le monde 3D.
 
-A gizmo can contain the following elements:
-- **Axis Arrows** These coloured arrows correspond to the Cartesian coordinate system, otherwise known as XYZ coordinates. The red, green and blue arrows allow the gizmo to be dragged along the X, Y and Z axis respectively.
-- **Center Node** The center node can be clicked and dragged to move the gizmo on all 3 axis. While dragging, the gizmo will maintain the same distance to the camera.
-- **Rotation Rings** Some operations like placement or shape placement will add a rotation ring to the Gizmo, allowing you to perform rotations in addition to translations. The rotation ring can be grabbed and drag to rotate the object around that axis.
-
+Un gizmo peut contenir les éléments suivants :
+- **Flèches d'Axes** Ces flèches colorées correspondent au système de coordonnées cartésien, également connu sous le nom de coordonnées XYZ. Les flèches rouge, verte et bleue permettent de faire glisser le gizmo le long des axes X, Y et Z respectivement.
+- **Noeud Central** Le nœud central peut être cliqué et glissé pour déplacer le gizmo sur les 3 axes. Pendant le glissement, le gizmo maintiendra la même distance par rapport à la caméra.
+- **Anneaux de Rotation** Certaines opérations, comme le placement ou le placement de forme, ajouteront un anneau de rotation au gizmo, vous permettant d'effectuer des rotations en plus des translations. L'anneau de rotation peut être saisi et glissé pour faire pivoter l'objet autour de cet axe.

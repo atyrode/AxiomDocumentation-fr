@@ -1,37 +1,37 @@
-# Tool Masks
+# Masques d'Outils
 
-Tool Masks empower users to set up rules for tools, applying their effects only when certain conditions are met. Leveraging boolean logic, Tool Masks allow users to specify block conditions across a variety of scenarios, such as affecting only blocks with air above them or a particular type of block beneath. These rule configurations, known as 'Rule Blocks', can be easily arranged in the tool menu via a drag-and-drop interface, providing a user-friendly alternative to scripting languages. The configuration of your mask is displayed as a string at the top of the menu for easy copying, sharing, and saving. The mask logic generates a boolean output, signifying either 'true' or 'false'.
-    
-The conditions fall into two main categories: Logic and Masks.
-    
-## Logic conditions
-    
-- **Any**
-The 'Any' condition enables any rules within this block to take effect. For example, when selecting multiple blocks to mask, select 'any' block that matches grass_block or stone.
+Les Masques d'Outils permettent aux utilisateurs de définir des règles pour les outils, en appliquant leurs effets uniquement lorsque certaines conditions sont remplies. Utilisant la logique booléenne, les Masques d'Outils permettent aux utilisateurs de spécifier des conditions de blocs dans une variété de scénarios, tels qu'affecter seulement les blocs ayant de l'air au-dessus d'eux ou un type de bloc particulier en dessous. Ces configurations de règles, appelées 'Blocs de Règles', peuvent être facilement arrangées dans le menu des outils via une interface glisser-déposer, offrant une alternative conviviale aux langages de script. La configuration de votre masque est affichée sous forme de chaîne en haut du menu pour faciliter la copie, le partage et la sauvegarde. La logique du masque génère une sortie booléenne, signifiant soit 'vrai' soit 'faux'.
 
-- **All**
-The 'All' condition requires all rules within this block to apply. For instance, if you want to select a block that has air above and dirt below it. However, conflicting rules won't function in the same 'All' block, meaning you can't have two 'block =' masks or two 'above =' masks simultaneously. But, it's possible to nest another 'Any' block inside.
+Les conditions sont regroupées en deux catégories principales : Logique et Masques.
 
-- **Not**
-The 'Not' condition reverses the rule outcomes, making them true only when the original conditions are not met. For example, setting the rule 'above = air' within a 'Not' block selects all blocks that do not have air above them.
-    
-Combining these logic conditions allows for a broad range of expressions in masks, enabling you to select almost all blocks meeting specific criteria.
-    
-## Masks
-    
-Masks are conditions that depend on the target's state or the surrounding blocks' state.
-    
-- **Block**
-The 'Block' mask returns true when the target matches the specified block or block state.
+## Conditions logiques
+
+- **N'importe lequel (Any)**
+La condition 'N'importe lequel' permet à toutes les règles à l'intérieur de ce bloc de prendre effet. Par exemple, lors de la sélection de plusieurs blocs pour le masquage, sélectionnez 'n'importe quel' bloc qui correspond à grass_block ou stone.
+
+- **Tous (All)**
+La condition 'Tous' nécessite que toutes les règles de ce bloc s'appliquent. Par exemple, si vous voulez sélectionner un bloc qui a de l'air au-dessus et de la terre en dessous. Cependant, des règles conflictuelles ne fonctionneront pas dans le même bloc 'Tous', ce qui signifie que vous ne pouvez pas avoir deux masques 'bloc =' ou deux masques 'au-dessus =' simultanément. Mais, il est possible d'imbriquer un autre bloc 'N'importe lequel' à l'intérieur.
+
+- **Pas (Not)**
+La condition 'Pas' inverse les résultats des règles, les rendant vrais seulement lorsque les conditions initiales ne sont pas remplies. Par exemple, en définissant la règle 'au-dessus = air' à l'intérieur d'un bloc 'Pas', sélectionnez tous les blocs qui n'ont pas d'air au-dessus d'eux.
+
+En combinant ces conditions logiques, vous pouvez exprimer une large gamme de masques, vous permettant de sélectionner presque tous les blocs répondant à des critères spécifiques.
+
+## Masques
+
+Les masques sont des conditions qui dépendent de l'état de la cible ou de l'état des blocs environnants.
+
+- **Bloc**
+Le masque 'Bloc' renvoie vrai lorsque la cible correspond au bloc ou à l'état de bloc spécifié.
 - **Y**
-The 'Y' mask returns true when the target aligns with the given condition relating to the block's Y coordinate level. There are several conditions for the Y mask which can be modified by clicking on the '=' sign.
-- **In Selection**
-The 'In Selection' condition returns true when the target block is within the user-defined selection area.
-- **Above**
-The 'Above' condition is true when the block directly above the target block matches the specified block or block state.
-- **Below**
-The 'Below' condition is true when the block directly below the target block matches the specified block or block state.
-- **Near**
-The 'Near' condition is true when any of the blocks in the 3x3 area (26 blocks) surrounding the target match the specified block or block state.
-- **Neighbor**
-The 'Neighbor' condition returns true when any of the six blocks directly adjacent (up, down, north, south, east, west) to the target match the specified block or block state which allows the mask to check the immediate vicinity of the target block.
+Le masque 'Y' renvoie vrai lorsque la cible correspond à la condition donnée relative au niveau de coordonnée Y du bloc. Il existe plusieurs conditions pour le masque Y qui peuvent être modifiées en cliquant sur le signe '='.
+- **Sélectionné**
+La condition 'Sélectionné' renvoie vrai lorsque le bloc cible se trouve dans la zone de sélection définie par l'utilisateur.
+- **Supérieur à**
+La condition 'Supérieur à' est vraie lorsque le bloc directement au-dessus du bloc cible correspond au bloc ou à l'état de bloc spécifié.
+- **Inférieur à**
+La condition 'Inférieur à' est vraie lorsque le bloc directement en dessous du bloc cible correspond au bloc ou à l'état de bloc spécifié.
+- **Proche de**
+La condition 'Proche de' est vraie lorsque l'un des blocs dans la zone 3x3 (26 blocs) entourant la cible correspond au bloc ou à l'état de bloc spécifié.
+- **Voisin de**
+La condition 'Voisin de' renvoie vrai lorsque l'un des six blocs directement adjacents (haut, bas, nord, sud, est, ouest) à la cible correspond au bloc ou à l'état de bloc spécifié, permettant au masque de vérifier le voisinage immédiat du bloc cible.

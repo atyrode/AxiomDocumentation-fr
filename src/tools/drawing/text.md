@@ -1,7 +1,7 @@
-# Text
+# Texte
 
-The **Text** tool lets the user write text with any True Type Font or .ttf file font in the world. It can be configured to have a smaller or larger font scale
+L'outil **Texte** permet à l'utilisateur d'écrire avec n'importe quelle police de caractères True Type Font ou .ttf dans le monde. Sa taille peut être configurée pour avoir une échelle de police plus petite ou plus grande.
 
-Just write the text desired into the ‘Text’ field and right-click to place it in the world with a gizmo.
+Il suffit d'écrire le texte souhaité dans le champ ‘Texte’ et de cliquer avec le bouton droit pour le placer dans le monde avec un gizmo.
 
-> Note: As of Axiom-b0.97, the text tool is unfinished and provided for demonstration purposes only. Thank you for your understanding
+> Note : À partir de Axiom-b0.97, l'outil texte est en cours de développement et est fourni uniquement à des fins de démonstration. Merci de votre compréhension.

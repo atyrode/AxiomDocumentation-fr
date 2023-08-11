@@ -1,19 +1,19 @@
-# Blueprints
+# Schémas
 
-Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing. 
+Les schémas sont un système pour enregistrer et charger des éléments préfabriqués. Ils sont semblables aux 'schématiques', mais avec une structure différente optimisée pour la recherche et la visualisation.
 
-## Creating a blueprint
+## Création d'un schéma
 
-A **Blueprint** can be created by having content in your clipboard and pressing Ctrl+P. This brings up the **Create Blueprint** menu. In here you can do a few things, you can name your blueprint, add authors, tags and rotate your blueprint to generate a thumbnail to easily recognize it later.
+Un **schéma** peut être créé en ayant du contenu dans votre presse-papiers et en appuyant sur Ctrl+P. Cela ouvre le menu **Créer un schéma**. Ici, vous pouvez faire quelques opérations, comme nommer votre schéma, ajouter des auteurs, des tags et faire pivoter votre schéma pour générer une miniature afin de le reconnaître facilement plus tard.
 
-Authors, tags and names are all ways by which you can easily look up blueprints later. For example by searching the tag ‘tree’ or ‘structure’ you can find all blueprints that include that tag. There are a couple dozen default tags that Axiom ships with in order to cover a wide array of possible blueprints but if those don’t quite cover your needs you can always create your own tag by clicking the ‘+’, entering the name and clicking the ‘Create Tag’ button inside the ‘Add Tag’ menu.
+Les auteurs, tags et noms sont tous des moyens de rechercher facilement les schémas plus tard. Par exemple, en cherchant le tag "arbre" ou "structure", vous pouvez trouver tous les schémas qui incluent ce tag. Il existe quelques douzaines de tags par défaut que Axiom propose pour couvrir un large éventail de schémas possibles, mais si ceux-ci ne répondent pas tout à fait à vos besoins, vous pouvez toujours créer votre propre tag en cliquant sur le ‘+’, en entrant le nom et en cliquant sur le bouton "Créer Tag" dans le menu "Ajouter Tag".
 
-When you save a blueprint a file system dialog opens up native to your operating system. This confirms the name you want to give to the blueprint and lets to save it as a .bp file on your local computer. This means that you can easily create blueprints in one world or server and then use them in another world without having to deal with messy import or export schemas. The files themselves are stored in your .minecraft folder under `.minecraft/config/axiom/blueprints`
+Lorsque vous enregistrez un schéma, une boîte de dialogue de système de fichiers propre à votre système d'exploitation s'ouvre. Cela confirme le nom que vous souhaitez donner au schéma et vous permet de l'enregistrer en tant que fichier .bp sur votre ordinateur local. Cela signifie que vous pouvez facilement créer des schémas dans un monde ou serveur et les utiliser ensuite dans un autre monde sans avoir à gérer d'encombrants schémas d'importation ou d'exportation. Les fichiers eux-mêmes sont stockés dans votre dossier .minecraft sous `.minecraft/config/axiom/blueprints`.
 
-## Sharing blueprints
+## Partage de schémas
 
-The blueprint files themselves can be sent to others who can then also use them in Axiom if they place the files in the designated file location. The blueprint folder supports nested directories as well, meaning that you can for example, put all your trees in one folder under the blueprints folder.
+Les fichiers de schéma eux-mêmes peuvent être envoyés à d'autres qui peuvent alors également les utiliser dans Axiom s'ils placent les fichiers à l'emplacement de fichier désigné. Le dossier des schémas prend en charge également les répertoires imbriqués, ce qui signifie que vous pouvez, par exemple, mettre tous vos arbres dans un dossier sous le dossier des schémas.
 
-## Loading blueprints
+## Chargement de schémas
 
-Once you have Blueprints, you can view them in the **Blueprint Browser**. You'll be able to see thumbnails for all of your blueprints, as well as perform searches or filter by tags. Clicking a blueprint will 'open' it and place the blocks into your [clipboard](blocks_and_clipboard.md#clipboard).
+Une fois que vous avez des schémas, vous pouvez les visualiser dans le **Navigateur de schémas**. Vous pourrez voir des miniatures pour tous vos schémas, ainsi qu'effectuer des recherches ou filtrer par tags. En cliquant sur un schéma, cela l'"ouvre" et place les blocs dans votre [presse-papiers](blocks_and_clipboard.md#clipboard).

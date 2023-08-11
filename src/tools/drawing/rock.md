@@ -1,20 +1,19 @@
-# Rock
+# Outil de rocher
 
-The **Rock** tool is a noise-based sculpting tool useful for making rock-like terrain and shapes. It can be used for both individual rocks and boulders as well as making surfaces look more rocky and rough. It uses several parameters that change how rocks form in general as well as in relation to the surface they’re placed on. It uses the active block to determine the palette. Various settings are available to finetune the tool’s sculpting behavior:
+L'outil **de rocher** est un outil de sculpture basé sur le bruit, utile pour créer des terrains et des formes semblables à des rochers. Il peut être utilisé à la fois pour des roches et des blocs individuels ainsi que pour rendre les surfaces plus rocailleuses et rugueuses. Il utilise plusieurs paramètres qui modifient la façon dont les rochers se forment en général ainsi que par rapport à la surface sur laquelle ils sont placés. Il utilise le bloc actif pour déterminer la palette. Divers paramètres sont disponibles pour affiner le comportement de sculpture de l'outil :
 
-## Noise Settings
- The noise settings lets the user configure how random and rough the rocks created by the sculpting tool should be. There are several settings that can be adjusted to change the noise’s behavior. 
+## Paramètres du Bruit
+Les paramètres du bruit permettent à l'utilisateur de configurer le degré d'aléatoire et de rugosité des roches créées par l'outil de sculpture. Il existe plusieurs paramètres qui peuvent être ajustés pour modifier le comportement du bruit.
 
-The noise radius is a setting that determines the 'scale' of the noise-induced modifications. A larger noise radius implies a broader impact zone, affecting more blocks, which in turn forms bigger, blob-like configurations that are typically more rounded and smoothed out due to the wider distribution of changes. On the other hand, a smaller noise radius, which affects fewer blocks, will result in more refined and jagged alterations, constrained by the voxel grid size.
+Le rayon du bruit est un paramètre qui détermine l'"échelle" des modifications induites par le bruit. Un rayon de bruit plus grand implique une zone d'impact plus large, affectant plus de blocs, ce qui forme de plus grandes configurations semblables à des taches, généralement plus arrondies et lissées en raison de la plus grande distribution des changements. À l'inverse, un rayon de bruit plus petit, qui affecte moins de blocs, entraînera des modifications plus précises et dentelées, contraintes par la taille de la grille de voxel.
 
-The ‘Noisiness’ slider affects how ‘noisy’ or random the sculpted blocks will be. A higher level of noisiness yield more random and blobby looking rocks. A lower level of noisiness yields more smooth spherical rocks. Combined with the noise radius and other factors this can impact how rough the rocks’s final appearance will be. 
+Le curseur "Bruit" affecte le degré d'irrégularité ou d'aléatoire des blocs sculptés. Un niveau d'intensité du bruit plus élevé donne des roches au look plus aléatoire et informe. Un niveau de bruit plus faible produit des roches plus lisses et sphériques. Combiné au rayon du bruit et à d'autres facteurs, cela peut influencer l'aspect final rugueux des roches.
 
-The Noise Field Seed lets you enter a seed should you want to continue a pattern that you previously used or reuse after playing with parameters, by default it is randomized on every stroke.
+Le champ Seed du champ de bruit vous permet d'entrer une seed si vous souhaitez continuer un motif que vous avez précédemment utilisé ou réutiliser après avoir joué avec les paramètres, par défaut il est aléatoire à chaque coup.
 
-## Smoothing Settings
-The smoothing settings affect how much the rocks produced by the previous settings get smoothed out in order to create a more coherent and unified looking rock shape rather than being floating blobs. 
+## Paramètres de Lissage
+Les paramètres de lissage affectent le degré de lissage des roches produites par les paramètres précédents afin de créer une forme de roche plus cohérente et unifiée plutôt que d'être des taches flottantes.
 
-The Smoothing Standard Deviation settings let you set the strength of the Gaussian blur applied to the tool. The default ranges from 0 to 5 but can be extended beyond the cap. 0 being equivalent to having no smoothing applied, 2 - the standard setting - being equivalent to having roughly ~4 blocks of range of smoothing and 5 being very smooth with a range of roughly ~10 blocks of smoothing.
+Les paramètres d'écart-type du lissage vous permettent de définir la force du flou gaussien appliqué à l'outil. La plage par défaut va de 0 à 5 mais peut être étendue au-delà de la limite. 0 étant équivalent à n'avoir aucun lissage appliqué, 2 - le réglage standard - étant équivalent à avoir environ ~4 blocs de plage de lissage et 5 étant très lisse avec une plage d'environ ~10 blocs de lissage.
 
-The Meld strength is a feature that lets you determine how strongly a rock should be melded or belnded together with the existing blocks of the world. This causes rocks to smooth out more near the edges of the brush in order to ease out the jagged edges that a rock might otherwise have. The default ranges from 0 to 3 but can be extended beyond the cap, 0 having no melding applied and just being placed at the surface, 3 being a strong melding affect. The meld strength is also affected by smoothing, with more smoothing causing ‘melded edges’ to be more finely smoothed into the existing blocks.
-
+L'intensité de fusion est une caractéristique qui vous permet de déterminer la force avec laquelle une roche doit être fusionnée ou mélangée avec les blocs existants du monde. Cela amène les roches à s'adoucir davantage près des bords de la brosse afin d'atténuer les bords dentelés qu'une roche pourrait autrement avoir. La plage par défaut va de 0 à 3 mais peut être étendue au-delà de la limite, 0 n'ayant aucune fusion appliquée et étant simplement placée à la surface, 3 ayant un fort effet de fusion. La force de fusion est également affectée par le lissage, un lissage plus important causant des "bords fusionnés" plus finement intégrés aux blocs existants.

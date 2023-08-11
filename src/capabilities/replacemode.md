@@ -1,4 +1,4 @@
-# Replace Mode
-The **Replace Mode** capability allows you to right-click to replace the targeted block with the held block. This allows you to easily replace a large amount of blocks by holding the right-mouse button instead of needing to press left+right click for each individual block you want to replace.
+# Mode Remplacement
+La capacité **Mode Remplacement** vous permet de cliquer avec le bouton droit pour remplacer le bloc ciblé par le bloc que vous tenez. Cela vous permet de remplacer facilement une grande quantité de blocs en maintenant le bouton droit de la souris enfoncé, au lieu de devoir appuyer sur les boutons gauche + droit pour chaque bloc individuel que vous souhaitez remplacer.
 
-Additionally, when you replace a block, the newly placed block will inherit the properties of the old block. This mechanic means that, for example, if you have a copper stair and replace it with an oak stair, the oak stair will be in the exact same orientation and shape as the original copper stair.
+De plus, lorsque vous remplacez un bloc, le nouveau bloc héritera des propriétés de l'ancien bloc. Ce mécanisme signifie que, par exemple, si vous avez un escalier en cuivre et que vous le remplacez par un escalier en chêne, l'escalier en chêne aura exactement la même orientation et forme que l'escalier en cuivre d'origine.

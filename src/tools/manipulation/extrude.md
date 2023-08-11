@@ -1,7 +1,7 @@
-# Extrude
+# Extrudeur
 
-The **Extrude** tool is designed to adjust the size of surfaces, either expanding or contracting them. When you click on a surface, the tool affects the entire face, causing it to either shrink or expand, based on the selected mode. It has a preset range limit set at 100,000 by default. This is done for the sake of performance and potential to extend beyond the render distance on large flat surfaces otherwise. 
+L'outil **Extrudeur** est conçu pour ajuster la taille des surfaces, soit en les agrandissant, soit en les rétrécissant. Lorsque vous cliquez sur une surface, l'outil affecte toute la face, la faisant soit rétrécir, soit s'agrandir, en fonction du mode sélectionné. Il a une limite de portée prédéfinie, fixée par défaut à 100 000. Ceci est fait pour des raisons de performance et pour éviter de s'étendre au-delà de la distance d'affichage sur de grandes surfaces plates autrement.
 
-The tool also includes a "block compare" mode, which operates similarly to the block compare modes of the magic select tool. This mode determines which blocks the tool will affect. Options include all blocks, only blocks of the same type, blocks with the same block state, any solid blocks, or every block, providing a great deal of customization.
+L'outil comprend également un mode "comparaison de blocs", qui fonctionne de manière similaire aux modes de comparaison de blocs de l'outil de sélection magique. Ce mode détermine quels blocs l'outil va affecter. Les options incluent tous les blocs, uniquement les blocs du même type, les blocs ayant le même état, n'importe quel bloc solide, ou chaque bloc, offrant un grand degré de personnalisation.
 
-The Extrude tool also features a "displace" function. When activated, this function causes surfaces that are one block thick to move, rather than creating a copy or addition to them. This can be particularly useful when you want to reposition elements like walls or ceilings without altering their thickness.
+L'outil Extrudeur comporte également une fonction "déplacer". Lorsqu'elle est activée, cette fonction amène les surfaces d'une épaisseur d'un bloc à bouger, plutôt que de créer une copie ou un ajout à elles. Cela peut être particulièrement utile lorsque vous souhaitez repositionner des éléments tels que des murs ou des plafonds sans en modifier l'épaisseur.

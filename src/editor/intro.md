@@ -1,3 +1,3 @@
-# Editor Mode
+# Mode Éditeur
 
-The Editor Mode includes a large variety of tools and operations for large-scale world manipulation, painting, terraforming and sculpting. The Editor UI has been designed specially for this purpose, combining camera controls from conventional 3D software with powerful tools tailored for Minecraft building. The layout of the Editor UI can be customized by rearranging and docking the windows to your liking.
+Le Mode Éditeur offre une grande variété d'outils et d'opérations pour la manipulation à grande échelle du monde, la peinture, le terraformage et la sculpture. L'interface utilisateur de l'Éditeur a été spécialement conçue à cette fin, combinant les commandes de caméra des logiciels 3D conventionnels avec des outils puissants adaptés à la construction dans Minecraft. La disposition de l'interface utilisateur de l'Éditeur peut être personnalisée en réorganisant et en ancrant les fenêtres selon vos préférences.

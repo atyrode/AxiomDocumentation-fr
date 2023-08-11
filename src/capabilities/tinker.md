@@ -1,39 +1,38 @@
-# Tinker
-The **Tinker** capability has various features related to right-clicking with your fist on blocks. Tinker often can be used in place of the debug stick, being slighty faster compared to the debug stick's clunky interface but sometimes lacking the ability to change some non-visual properties.
+# Bricolage
 
-Aiming at specific parts of a block can change the effect of the tinker. This lets you quickly change full blocks into stairs, stairs into slabs and vice versa. It also lets you easily adjust walls/fences to create states that Minecraft normally doesn’t allow.
+La capacité **Bricolage** offre diverses fonctionnalités liées au clic droit avec votre poing sur les blocs. Le Bricolage peut souvent être utilisé à la place du bâton de débogage, étant légèrement plus rapide comparé à l'interface peu pratique du bâton de débogage, mais manquant parfois de la capacité à changer certaines propriétés non-visuelles.
 
-Tinker interactions can be negated while the capability is toggled on by either having a non-empty hand or by holding down the sneak or ‘shift’ button.
+Viser des parties spécifiques d'un bloc peut modifier l'effet du bricolage. Cela vous permet de rapidement transformer des blocs entiers en escaliers, des escaliers en dalles et vice versa. Il vous permet également d'ajuster facilement les murs/barrières pour créer des états que Minecraft ne permet normalement pas.
 
-|Block                                |Tinker Effect                                                |
-|-------------------------------------|-------------------------------------------------------------|
-|Blocks with full/stair/slab variants |Convert between full/stair/slab by adding/removing corners   |
-|Walls                                |Cycle WallSide (none/low/tall) of targeted side              |
-|Fences/Iron bars                     |Toggle north/east/south/west sides                           |
-|Piston                               |[Side] Change facing, [Front] Extends/retracts the piston    |
-|Furnace                              |[Side] Change facing, [Front] Toggles lit state              |
-|Carved Pumpkin/Jack O Lantern        |[Side] Change facing, [Front] Swaps between the 2 blocks     |
-|Barrel                               |[Side] Change facing, [Front] Opens/closes                   |
-|Iron Trapdoor/Door                   |Open/closes the block                                        |
-|Brewing Stand                        |Add/remove bottles                                           |
-|Glazed Terracotta                    |Change facing                                                |
-|Farmland                             |Cycle moisture                                               |
-|Scaffolding                          |Toggle bottom                                                |
-|Small/Medium/Large/Cluster Amethyst  |Cycles between the 4 blocks                                  |
-|Lectern                              |Toggles book                                                 |
-|Candle/Campfire/Redstone Torch       |Toggles lit                                                  |
-|Cave Vines                           |Toggles berries                                              |
-|Bamboo Stalk                         |Toggles bamboo leaves                                        |
-|Cauldron                             |Cycles fluid level                                           |
-|Composter                            |Cycles compost level                                         |
-|Powered Rail                         |Toggles powered                                              |
-|Beehive                              |Cycles honey level                                           |
-|Any block with 'Age' property        |Cycles age                                                   |
-|Cake                                 |Cycles bites                                                 |
+Les interactions de Bricolage peuvent être annulées lorsque la capacité est activée soit en ayant une main non vide, soit en maintenant enfoncé le bouton d'accroupissement ou « shift ».
 
+| Bloc                                 | Effet de Bricolage                                           |
+|--------------------------------------|--------------------------------------------------------------|
+| Blocs avec variantes plein/escalier/dalle | Convertit entre plein/escalier/dalle en ajoutant/retirant des coins |
+| Murs                                 | Change le côté du mur (aucun/bas/haut) du côté ciblé         |
+| Clôtures/Barreaux de fer             | Bascule les côtés nord/est/sud/ouest                        |
+| Piston                               | [Côté] Change la direction, [Devant] étend/rétracte le piston|
+| Four                                 | [Côté] Change la direction, [Devant] Bascule l'état allumé   |
+| Citrouille sculptée/Citrouille lumineuse | [Côté] Change la direction, [Devant] Échange entre les 2 blocs |
+| Tonneau                              | [Côté] Change la direction, [Devant] Ouvre/ferme             |
+| Trappe en fer/Porte                  | Ouvre/ferme le bloc                                         |
+| Alambic                              | Ajoute/retire des bouteilles                                |
+| Terre cuite émaillée                 | Change la direction                                         |
+| Terre cultivée                       | Change l'humidité                                           |
+| Échafaudage                          | Bascule le bas                                              |
+| Améthyste petit/moyen/grand/grappe   | Alterne entre les 4 blocs                                   |
+| Pupitre                              | Bascule le livre                                            |
+| Torche/Feu de camp/Torche de redstone| Bascule allumé                                              |
+| Liane des caverne                    | Bascule les baies                                           |
+| Tige de bambou                       | Bascule les feuilles de bambou                              |
+| Chaudron                             | Change le niveau de liquide                                 |
+| Composteur                           | Change le niveau de compost                                 |
+| Rail électrique                      | Bascule alimenté                                            |
+| Ruche                                | Change le niveau de miel                                    |
+| Tout bloc avec propriété 'Âge'       | Change l'âge                                                |
+| Gâteau                               | Change le nombre de parts                                   |
 
-Additionally:
-- Right-clicking with Moss Block on cobblestone/stone converts the block into its mossy variant
-- Right-clicking with Shears on removes mossy
-- Right-clicking on a pot with a plant replaces the plant inside the pot
-
+De plus :
+- Cliquer droit avec un bloc de mousse sur du pavé/pierre transforme le bloc en sa variante moussue
+- Cliquer droit avec des ciseaux enlève la mousse
+- Cliquer droit sur un pot avec une plante remplace la plante à l'intérieur du pot.

@@ -1,9 +1,9 @@
-# Roughen
+# Rendre rugueux
 
-The **Roughen** tool is designed to create rugged or jagged edges in the terrain, essentially serving as the opposite of the smoothing tool. It works by "roughening" or making the terrain less smooth. It’s brush size can be configured to change the affected area.
+L'outil **Rendre rugueux** est conçu pour créer des bords accidentés ou dentelés dans le terrain, servant essentiellement d'opposé à l'outil de lissage. Il fonctionne en "rugosifiant" ou en rendant le terrain moins lisse. La taille de sa brosse peut être configurée pour changer la zone affectée.
 
-The way it functions is by analysing how many faces (sides of the blocks) are currently exposed to the air and how many should be exposed after the roughening process. The amount of roughening applied to the terrain is determined by the "roughening ratio", which sets the proportion of change.
+Son fonctionnement est basé sur l'analyse du nombre de faces (côtés des blocs) actuellement exposées à l'air et du nombre qui devraient l'être après le processus de rugosification. La quantité de rugosité appliquée au terrain est déterminée par le "ratio de rugosité", qui fixe la proportion de changement.
 
-The 'Faces' parameter is a slider that ranges from 1 to 4. This determines how many sides (or faces) of a block will be exposed to air after the roughening process. If the value is set to 1, fewer faces will need to be exposed, leading to a more rugged look. On the other hand, if it's set to 4, less faces will need to be exposed, resulting in a highly irregular, rough appearance.
+Le paramètre 'Faces' est un curseur qui varie de 1 à 4. Cela détermine combien de côtés (ou faces) d'un bloc seront exposés à l'air après le processus de rugosification. Si la valeur est fixée à 1, moins de faces devront être exposées, donnant un aspect plus accidenté. D'autre part, s'il est réglé sur 4, moins de faces devront être exposées, ce qui donne un aspect très irrégulier et rugueux.
 
-The 'Roughening Ratio' is a separate slider that you can also configure. This determines the intensity or amount of the roughening effect, or how much the terrain will be transformed. A high roughening ratio will cause a drastic change, making the terrain appear substantially more rugged. A lower ratio, on the other hand, will apply a more subtle roughening effect.
+Le 'Ratio de Rugosité' est un autre curseur que vous pouvez également configurer. Cela détermine l'intensité ou la quantité de l'effet de rugosité, ou combien le terrain sera transformé. Un ratio de rugosité élevé provoquera un changement drastique, rendant le terrain nettement plus accidenté. Un ratio plus bas, en revanche, appliquera un effet de rugosité plus subtil.

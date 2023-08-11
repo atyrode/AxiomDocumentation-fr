@@ -1,3 +1,3 @@
-# Drawing Tools
+# Outils de Dessin
 
-Drawing tools are used to sculpt the world, adding or subtracting mass in a way similar to the sculpting tools found in other 3D software. Each tool uses unique placement algorithms, allowing for varied effects. Axiom provides a wide array of these tools, each one equipped with specialized configurations for precise block editing.
+Les outils de dessin sont utilisés pour sculpter le monde, ajoutant ou soustrayant de la matière d'une manière similaire aux outils de sculpture trouvés dans d'autres logiciels 3D. Chaque outil utilise des algorithmes de placement uniques, permettant d'obtenir des effets variés. Axiom propose un large éventail de ces outils, chacun équipé de configurations spécialisées pour une édition précise des blocs.

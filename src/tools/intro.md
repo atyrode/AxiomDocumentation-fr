@@ -1,11 +1,11 @@
-# Tools
+# Outils
 
-Axiom presents a rich set of tools for real-time, precise manipulation of your Minecraft world. These tools are readily accessible in the top layer of the 'Tool' window. Additionally, the 'Tool Options' window offers further configuration possibilities. Each tool comes with its unique settings that can dramatically change its functionality and impact. We encourage exploration and experimentation as it can lead to unanticipated yet fascinating or beneficial applications of these tools.
+Axiom offre un riche ensemble d'outils pour la manipulation en temps réel et précise de votre monde Minecraft. Ces outils sont facilement accessibles dans la couche supérieure de la fenêtre "Outil". De plus, la fenêtre "Options d'outils" offre d'autres possibilités de configuration. Chaque outil est livré avec ses propres paramètres qui peuvent changer considérablement sa fonctionnalité et son impact. Nous encourageons l'exploration et l'expérimentation car cela peut mener à des applications inattendues mais fascinantes ou bénéfiques de ces outils.
 
-Note: By ctrl clicking on a slider, you can manually input a value that exceeds the default parameter limits. Use this feature with caution.
+Note : En faisant ctrl-clic sur un curseur, vous pouvez manuellement saisir une valeur qui dépasse les limites par défaut des paramètres. Utilisez cette fonction avec prudence.
 
-## Brushes
+## Pinceaux
 
-Most tools used to manipulate the world use a format known as ‘brushes’. Brushes let the user click and drag in the world with a predefined shape in order to gather blocks to include in the brush’s path. You can select the shape of the brush in the dropdown menu. The default shape is a sphere.
+La plupart des outils utilisés pour manipuler le monde utilisent un format appelé « pinceaux ». Les pinceaux permettent à l'utilisateur de cliquer et de faire glisser dans le monde avec une forme prédéfinie afin de rassembler des blocs à inclure dans le chemin du pinceau. Vous pouvez sélectionner la forme du pinceau dans le menu déroulant. La forme par défaut est une sphère.
 
-You can choose from a sphere, a cube or an octahedron.
+Vous pouvez choisir entre une sphère, un cube ou un octaèdre.

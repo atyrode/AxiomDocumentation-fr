@@ -1,7 +1,7 @@
-# Flatten
+# Aplatir
 
-The **Flatten** tool is best described as an elevation tool going in two directions. It raises terrain below it and lowers terrain above it, ultimately creating a flat spot where the cylinders meet which is where you point the brush. It can be used to flatten hilly areas to a desired height and to create steep edges on the sides of builds. Similarly to the **Elevation** tool it uses a brush that can have its height and radius configured.
+L'outil **Aplatir** peut être décrit comme un outil d'élévation fonctionnant dans deux directions. Il élève le terrain en dessous et abaisse le terrain au-dessus, créant finalement un espace plat là où les cylindres se rencontrent, c'est-à-dire là où vous pointez la brosse. Il peut être utilisé pour aplatir des zones vallonnées à une hauteur souhaitée et pour créer des bords raides sur les côtés des constructions. De la même manière que l'outil **Élévation**, il utilise une brosse dont la hauteur et le rayon peuvent être configurés.
 
-The sharpness setting affects both the top and the bottom portion of the flatten tool. This means that a higher sharpness setting creates not only a sharper cliff edge but also lowers area around it more harshly.
+Le paramètre de netteté affecte à la fois la partie supérieure et la partie inférieure de l'outil d'aplatissement. Cela signifie qu'un réglage de netteté plus élevé crée non seulement un bord de falaise plus net, mais abaisse également la zone autour de façon plus radicale.
 
-Additionally there is a lock Y setting. Clicking this lets you lock to a specific height by right-clicking a block in the world, this then sets the lock to that height. What this does is it makes it so that no matter where you click, it will always flatten blocks to that height. This can be unlocked by clicking the button once more.
+De plus, il existe un réglage de verrouillage Y. En cliquant dessus, vous pouvez verrouiller une hauteur spécifique en cliquant avec le bouton droit sur un bloc du monde, ce qui fixe le verrou à cette hauteur. Cela fait en sorte que, peu importe où vous cliquez, il aplatisse toujours les blocs à cette hauteur. Ce verrouillage peut être désactivé en cliquant à nouveau sur le bouton.

@@ -1,4 +1,4 @@
-# Capabilities
-This chapter covers Capabilities, toggleable features which can enhance your building workflow.
+# Capacités
+Ce chapitre traite des Capacités, des fonctionnalités activables qui peuvent améliorer votre processus de construction.
 
-By default, the **Replace Mode** capability can be toggled using the R keybind. Toggle keybinds for all capabilities can be configured in the vanilla keybinds menu.
+Par défaut, la capacité **Mode Remplacement** peut être activée ou désactivée à l'aide de la touche R. Les raccourcis pour toutes les capacités peuvent être configurés dans le menu des raccourcis de la version originale du jeu.
