@@ -1,7 +1,7 @@
-# Extrudeur
+# Ajuster
 
-L'outil **Extrudeur** est conçu pour ajuster la taille des surfaces, soit en les agrandissant, soit en les rétrécissant. Lorsque vous cliquez sur une surface, l'outil affecte toute la face, la faisant soit rétrécir, soit s'agrandir, en fonction du mode sélectionné. Il a une limite de portée prédéfinie, fixée par défaut à 100 000. Ceci est fait pour des raisons de performance et pour éviter de s'étendre au-delà de la distance d'affichage sur de grandes surfaces plates autrement.
+L'outil **Ajuster** est conçu pour ajuster la taille des surfaces, soit en les agrandissant, soit en les rétrécissant. Lorsque vous cliquez sur une surface, l'outil affecte toute la face, la faisant soit rétrécir, soit s'agrandir, en fonction du mode sélectionné. Il a une limite de portée prédéfinie, fixée par défaut à 100 000. Ceci est fait pour des raisons de performance et pour éviter de s'étendre au-delà de la distance d'affichage sur de grandes surfaces plates autrement.
 
 L'outil comprend également un mode "comparaison de blocs", qui fonctionne de manière similaire aux modes de comparaison de blocs de l'outil de sélection magique. Ce mode détermine quels blocs l'outil va affecter. Les options incluent tous les blocs, uniquement les blocs du même type, les blocs ayant le même état, n'importe quel bloc solide, ou chaque bloc, offrant un grand degré de personnalisation.
 
-L'outil Extrudeur comporte également une fonction "déplacer". Lorsqu'elle est activée, cette fonction amène les surfaces d'une épaisseur d'un bloc à bouger, plutôt que de créer une copie ou un ajout à elles. Cela peut être particulièrement utile lorsque vous souhaitez repositionner des éléments tels que des murs ou des plafonds sans en modifier l'épaisseur.
+L'outil Ajuster comporte également une fonction "déplacer". Lorsqu'elle est activée, cette fonction amène les surfaces d'une épaisseur d'un bloc à bouger, plutôt que de créer une copie ou un ajout à elles. Cela peut être particulièrement utile lorsque vous souhaitez repositionner des éléments tels que des murs ou des plafonds sans en modifier l'épaisseur.

@@ -1,6 +1,6 @@
-# Pinceau de Biome
+# Pinceau à Biome
 
-Le **Pinceau de Biome** est similaire à l'outil **Pinceau**, sauf qu'il peint des biomes au lieu des blocs. Dans Minecraft, les biomes sont représentés par une cellule de blocs 4x4x4 s'arrêtant à la hauteur du monde. Bien que les biomes soient stockés dans des cellules, ils sont modifiés lors du rendu pour donner à leur forme un aspect irrégulier.
+Le **Pinceau à Biome** est similaire à l'outil **Pinceau**, sauf qu'il peint des biomes au lieu des blocs. Dans Minecraft, les biomes sont représentés par une cellule de blocs 4x4x4 s'arrêtant à la hauteur du monde. Bien que les biomes soient stockés dans des cellules, ils sont modifiés lors du rendu pour donner à leur forme un aspect irrégulier.
 
 Vous pouvez sélectionner n'importe quel biome dans le menu déroulant, y compris les biomes modifiés envoyés au client.
 

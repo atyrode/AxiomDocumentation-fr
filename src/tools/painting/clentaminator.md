@@ -1,16 +1,12 @@
-Voici la traduction en français :
+# Nettoyer
 
----
+L'outil **Nettoyer** est un ensemble d'outils de peinture prédéfinis qui ont généralement un ensemble complexe de règles de placement prédéfinies qui ne relèvent pas d'autres catégories. À cause de cela, ils utilisent souvent des algorithmes avancés pour produire des motifs intéressants mais sont plus spécifiques dans les cas où ils peuvent être utilisés.
 
-# Nettoyeur
-
-Le **Nettoyeur** est un ensemble d'outils de peinture prédéfinis qui ont généralement un ensemble complexe de règles de placement prédéfinies qui ne relèvent pas d'autres catégories. À cause de cela, ils utilisent souvent des algorithmes avancés pour produire des motifs intéressants mais sont plus spécifiques dans les cas où ils peuvent être utilisés.
-
-Le Nettoyeur vous permet de configurer le pinceau pour définir le chemin du trait, comme les autres outils. Il dispose également de deux autres options qui peuvent être activées et configurées : **Terrain** et **Décorations**. Ils peuvent être combinés pour offrir une large gamme de personnalisation.
+L'outil **Nettoyer** vous permet de configurer le pinceau pour définir le chemin du trait, comme les autres outils. Il dispose également de deux autres options qui peuvent être activées et configurées : **Terrain** et **Décorations**. Ils peuvent être combinés pour offrir une large gamme de personnalisation.
 
 ## Terrain
 
-Ces préréglages Nettoyeur affectent les blocs solides dans votre trait de pinceau.
+Ces préréglages affectent les blocs solides dans votre trait de pinceau.
 
 ### Pierre
 
@@ -38,11 +34,11 @@ Le préréglage Terrain Fond d'Océan Fertile utilise un mélange de voronoi en 
 
 ## Décorations
 
-Ces préréglages Nettoyeur affectent les blocs non solides, souvent destinés à être placés sur un terrain existant pour améliorer l'esthétique.
+Ces préréglages affectent les blocs non solides, souvent destinés à être placés sur un terrain existant pour améliorer l'esthétique.
 
 ### Supprimer
 
-Le préréglage Décoration Supprimer n'est pas un pinceau "vide", il peut être utilisé pour effacer d'autres décorations trouvées dans la génération naturelle ou placées par d'autres préréglages Nettoyeur. Utile pour créer par exemple une clairière dans une forêt.
+Le préréglage Décoration Supprimer n'est pas un pinceau "vide", il peut être utilisé pour effacer d'autres décorations trouvées dans la génération naturelle ou placées par d'autres préréglages. Utile pour créer par exemple une clairière dans une forêt.
 
 ### Herbe
 
