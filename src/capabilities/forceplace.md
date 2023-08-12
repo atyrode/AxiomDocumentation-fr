@@ -1,5 +1,6 @@
-# Placement Forcé
-La capacité **Placement Forcé** contourne les restrictions normales de placement.
+# Forcer le placement
+
+La capacité **Forcer le placement** contourne les restrictions normales de placement.
 
 - Les blocs qui doivent normalement être attachés à des blocs solides peuvent être placés en plein air.
 - Les blocs peuvent être placés à l'intérieur d'entités (y compris vous-même).

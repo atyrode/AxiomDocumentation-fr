@@ -1,6 +1,6 @@
-# Rendre rugueux
+# Écorcher
 
-L'outil **Rendre rugueux** est conçu pour créer des bords accidentés ou dentelés dans le terrain, servant essentiellement d'opposé à l'outil de lissage. Il fonctionne en "rugosifiant" ou en rendant le terrain moins lisse. La taille de sa brosse peut être configurée pour changer la zone affectée.
+L'outil **Écorcher** est conçu pour créer des bords accidentés ou dentelés dans le terrain, servant essentiellement d'opposé à l'outil de lissage. Il fonctionne en "rugosifiant" ou en rendant le terrain moins lisse. La taille de sa brosse peut être configurée pour changer la zone affectée.
 
 Son fonctionnement est basé sur l'analyse du nombre de faces (côtés des blocs) actuellement exposées à l'air et du nombre qui devraient l'être après le processus de rugosification. La quantité de rugosité appliquée au terrain est déterminée par le "ratio de rugosité", qui fixe la proportion de changement.
 

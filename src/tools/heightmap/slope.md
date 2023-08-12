@@ -1,6 +1,6 @@
-# Pente
+# Incliner
 
-L'outil **Pente** est un outil d'altitude conçu pour créer facilement une rampe ou une pente entre deux points, sa fonction différant légèrement des autres outils d'altitude. Pour commencer une pente, vous devez cliquer une fois pour définir la position cible, puis vous pouvez glisser-cliquer depuis n'importe quel autre endroit pour commencer à dessiner une pente entre ces deux points.
+L'outil **Incliner** est un outil d'altitude conçu pour créer facilement une rampe ou une pente entre deux points, sa fonction différant légèrement des autres outils d'altitude. Pour commencer une pente, vous devez cliquer une fois pour définir la position cible, puis vous pouvez glisser-cliquer depuis n'importe quel autre endroit pour commencer à dessiner une pente entre ces deux points.
 
 Au premier clic, un triangle apparaît affichant des détails tels que la différence de hauteur, l'angle de la pente, et la distance euclidienne entre les deux points. Lorsque vous maintenez le clic droit et faites glisser, un plan en grille visible autour du point initial de la pente montre l'angle exact de la pente et fournit une image approximative de ce à quoi ressemblera la pente finale.
 

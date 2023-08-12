@@ -1,6 +1,6 @@
-# Outil de rocher
+# Façonner
 
-L'outil **de rocher** est un outil de sculpture basé sur le bruit, utile pour créer des terrains et des formes semblables à des rochers. Il peut être utilisé à la fois pour des roches et des blocs individuels ainsi que pour rendre les surfaces plus rocailleuses et rugueuses. Il utilise plusieurs paramètres qui modifient la façon dont les rochers se forment en général ainsi que par rapport à la surface sur laquelle ils sont placés. Il utilise le bloc actif pour déterminer la palette. Divers paramètres sont disponibles pour affiner le comportement de sculpture de l'outil :
+L'outil **Façonner** est un outil de sculpture basé sur le bruit, utile pour créer des terrains et des formes semblables à des rochers. Il peut être utilisé à la fois pour des roches et des blocs individuels ainsi que pour rendre les surfaces plus rocailleuses et rugueuses. Il utilise plusieurs paramètres qui modifient la façon dont les rochers se forment en général ainsi que par rapport à la surface sur laquelle ils sont placés. Il utilise le bloc actif pour déterminer la palette. Divers paramètres sont disponibles pour affiner le comportement de sculpture de l'outil :
 
 ## Paramètres du Bruit
 Les paramètres du bruit permettent à l'utilisateur de configurer le degré d'aléatoire et de rugosité des roches créées par l'outil de sculpture. Il existe plusieurs paramètres qui peuvent être ajustés pour modifier le comportement du bruit.
