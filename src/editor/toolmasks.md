@@ -37,11 +37,11 @@ La condition 'Proche de' est vraie lorsque l'un des blocs dans la zone 3x3 (26 b
 La condition 'Voisin de' renvoie vrai lorsque l'un des six blocs directement adjacents (haut, bas, nord, sud, est, ouest) à la cible correspond au bloc ou à l'état de bloc spécifié, permettant au masque de vérifier le voisinage immédiat du bloc cible.
 
 > **IMPORTANT**
-> The tool masks window must be open in order to be in effect. You may dock the window to the side in order to have it open all the time.
+> La fenêtre des masques d'outils doit être ouverte pour être active. Vous pouvez ancrer la fenêtre sur le côté pour qu'elle reste ouverte en permanence.
 >
-> Tools currently incompattible with Masks:
-> - Smooth Tool
-> - Distort Tool
-> - Roughen Tool
-> - Shatter Tool
-> - Extrude Tool
+> Outils actuellement incompatibles avec les Masques :
+> - Lisser
+> - Distordre
+> - Écorcher
+> - Fracturer
+> - Ajuster
