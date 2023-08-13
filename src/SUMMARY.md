@@ -31,7 +31,7 @@
         - [Pinceau](tools/painting/painter.md)
         - [Pinceau à bruit](tools/painting/noisepainter.md)
         - [Pinceau à Biome](tools/painting/biomepainter.md)
-        - [Nettoyer](tools/painting/clentaminator.md)
+        - [Bioaltérer](tools/painting/clentaminator.md)
     - [Outils de Dessin](tools/drawing/intro.md)
         - [Dessiner](tools/drawing/freehanddraw.md)
         - [Sculpter](tools/drawing/sculptdraw.md)
