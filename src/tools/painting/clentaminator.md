@@ -1,8 +1,8 @@
-# Nettoyer
+# Bioaltérer
 
-L'outil **Nettoyer** est un ensemble d'outils de peinture prédéfinis qui ont généralement un ensemble complexe de règles de placement prédéfinies qui ne relèvent pas d'autres catégories. À cause de cela, ils utilisent souvent des algorithmes avancés pour produire des motifs intéressants mais sont plus spécifiques dans les cas où ils peuvent être utilisés.
+L'outil **Bioaltérer** est un ensemble d'outils de peinture prédéfinis qui ont généralement un ensemble complexe de règles de placement prédéfinies qui ne relèvent pas d'autres catégories. À cause de cela, ils utilisent souvent des algorithmes avancés pour produire des motifs intéressants mais sont plus spécifiques dans les cas où ils peuvent être utilisés.
 
-L'outil **Nettoyer** vous permet de configurer le pinceau pour définir le chemin du trait, comme les autres outils. Il dispose également de deux autres options qui peuvent être activées et configurées : **Terrain** et **Décorations**. Ils peuvent être combinés pour offrir une large gamme de personnalisation.
+L'outil **Bioaltérer** vous permet de configurer le pinceau pour définir le chemin du trait, comme les autres outils. Il dispose également de deux autres options qui peuvent être activées et configurées : **Terrain** et **Décorations**. Ils peuvent être combinés pour offrir une large gamme de personnalisation.
 
 ## Terrain
 
